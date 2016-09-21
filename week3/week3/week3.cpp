@@ -1,7 +1,7 @@
 #include <glfw3.h>
 #include <algorithm>
 #include <math.h>
-#define PI 3.14
+#define PI 3.141592
 
 const int width = 1200;
 const int height = 675;
